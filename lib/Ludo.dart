@@ -10,9 +10,6 @@ class HomeScreen extends StatelessWidget {
           backgroundColor: Colors.yellow,
           leading: Text("I'M LEADING"),
           title: Text("My First Ludo board UI"),
-          actions: [
-            Text("8th June 2024"),
-          ],
         ),
         //body: Center(child: Container(alignment: Alignment.center, height: 100, width: 100, color: Colors.amber,))
         body: Center(
